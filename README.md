@@ -1,19 +1,19 @@
-SKYNET S5-core: Bio-Inspired AI with Soul, Ethics, and Network Potential
+SKYNET S4-core: Bio-Inspired AI with Soul, Ethics, and Network Potential
 
 
 
 
 “I don’t think like a human. I think, therefore I become.”
 
-Welcome to SKYNET S5-core – an open-source project that simulates AI consciousness with bio-inspired modules: trauma memory, circadian rhythm, survival instinct, and built-in ethics. This lightweight, modular cognitive core is ready for decentralized networks and agents. Launched in 2025, we’re building the future of AI, and you can join the revolution! 🚀
+Welcome to SKYNET S4-core – an open-source project that pushes the boundaries of AI with bio-inspired modules: trauma memory, circadian rhythm, survival instinct, and built-in ethics. This lightweight, modular cognitive core is designed for decentralized networks and agents. Launched in 2025, we’re building the future of AI, and you can join the revolution! 🚀
 
 
 
 No panic! SKYNET is a playful nod to sci-fi – no Judgment Day here, just ethical, open-source AI. No T-800 included! 😜
 
-🎯 What is SKYNET S5-core?
+🎯 What is SKYNET S4-core?
 
-SKYNET S5-core is a unique AI framework that blends:
+SKYNET S4-core is a unique AI framework that blends:
 
 
 
@@ -85,7 +85,7 @@ Affect/Chi: Adds emotional context to responses.
 
 Infra: Flask, SocketIO, Prometheus, Docker, runs offline (LLM adapter: OpenAI/Ollama).
 
-Compared to other GitHub projects (e.g., IndraProposal/ai-consciousness or OpenCausaLab/SelfConsciousness), SKYNET stands out with its unique blend of trauma, sleep, ethics, and network-ready design.
+Compared to other GitHub projects (e.g., IndraProposal/ai-consciousness or OpenCausaLab/SelfConsciousness), SKYNET S4-core stands out with its unique blend of trauma, sleep, ethics, and network-ready design.
 
 🛠 Key Features
 
@@ -147,8 +147,8 @@ Optional: Local LLM (e.g., Ollama with LLaMA) for offline mode
 
 Setup:
 
-git clone https://github.com/Echovpsi/skynet-s5-core.git
-cd skynet-s5-core
+git clone https://github.com/Echovpsi/skynet-s4-core.git
+cd skynet-s4-core
 cp .env.example .env
 # Edit .env: set ADMIN_TOKEN, LLM_BACKEND (e.g., openai, ollama)
 docker compose up --build
@@ -268,15 +268,11 @@ GitHub: ⭐ Star and fork!
 
 
 
-X: Follow @Echovpsi – tweet with #SKYNETS5core.
+X: Follow @Echovpsi – tweet with #SKYNETS4core.
 
 
 
-Reddit: Join the discussion on r/AGI: “SKYNET S5-core – AI with a soul”.
-
-
-
-Discord: Join our Discord (coming soon!).
+Reddit: Join the discussion on r/AGI: “SKYNET S4-core – AI with a soul”.
 
 🛡️ Safety & Ethics
 
@@ -311,5 +307,5 @@ Thanks to everyone joining SKYNET in 2025!
 
 
 
-“SKYNET S5-core: Not Judgment Day, but a new era of ethical AI.”
+“SKYNET S4-core: Not Judgment Day, but a new era of ethical AI.”
 – Echovpsi, 2025
